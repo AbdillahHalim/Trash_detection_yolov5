@@ -1,1 +1,2 @@
-# Trash_detection_yolov5
+1. Abdillah Halim
+2. Afit Santoso
